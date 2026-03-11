@@ -19,7 +19,7 @@ The design uses colored blocks separated by thick black lines, similar to the fa
 
 ## Project Preview
 
-![Mondrian Layout](dimensions.png)
+![Mondrian Layout](mondrian-output.png)
 
 ## How to Run the Project
 
